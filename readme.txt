@@ -9,3 +9,6 @@ The goal of this project is to practice:
 - Merging changes
 - Undoing mistakes
 - Pushing the repository to GitHub
+
+Im gonna add extra details for this project
+Part of my Genpact internship project to practice Git and GitHub workflow.
