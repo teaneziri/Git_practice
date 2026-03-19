@@ -9,3 +9,7 @@ The goal of this project is to practice:
 - Merging changes
 - Undoing mistakes
 - Pushing the repository to GitHub
+
+
+==================
+Assignment completed successfully
