@@ -1,0 +1,2 @@
+This is my practice file for Git and GitHub assignment.
+I am learning how to create commits, branches, merge changes, and push to GitHub.
